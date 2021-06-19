@@ -1,0 +1,9 @@
+streamlit
+pandas
+gspread
+ServiceAccountCredentials
+DataTable
+TableColumn
+HTMLTemplateFormatter
+NumberFormatter
+CustomJS
